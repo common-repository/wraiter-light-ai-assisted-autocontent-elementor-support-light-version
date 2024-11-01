@@ -1,0 +1,567 @@
+# Copyright (C) 2023 Balcomsoft
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WrAIter Light - AI Assisted Autocontent Elementor support Light Version 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wraiter-light\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-30T22:09:45+03:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wraiter-light\n"
+
+#. Plugin Name of the plugin
+#. Description of the plugin
+msgid "WrAIter Light - AI Assisted Autocontent Elementor support Light Version"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wraiter.balcomsoft.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Balcomsoft"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.balcomsoft.com/"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:50
+msgid "Wraiter Light AI Blockquote Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:59
+msgid "Prompt Text for Blockquote Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:62
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:62
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:62
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:62
+msgid "Please specify the topic and provide detailed instructions for the content you wish to be created. Additionally, you may copy and paste pre-existing content and request the AI to refine the style, correct grammar errors or rewrite the content for you."
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:63
+msgid "Choose Language"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:76
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:76
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:76
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:76
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:76
+msgid "Autocontent in the selected language."
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:88
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:88
+#: includes/elementor/controls/class-wraiter-light-chatgpt-html-editor-control.php:75
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:88
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:88
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:157
+msgid "Generate and Insert"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-blockquote-control.php:91
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:91
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:91
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:91
+msgid "<div style=\"font-size: 15px;font-style: italic;margin-top: 5px;color: #797474;\" > <a target=\"_blank\" href=\"https://codecanyon.net/item/wraiter-ai-assisted-autocontent-elementor-support/44224580\">In the premium version of the plugin</a>, you can utilize multiple features such as the ability to create AI-generated images and generate HTML and source code using various programming languages. You can also customize content generation settings like writing style, tone, image style, and size. Moreover, multiple AI content variations are provided for prompts in a modal popup window for both text content and images. Apart from these, there are several other features available to you. </div>."
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:50
+msgid "Wraiter Light Code Highlight AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:59
+msgid "Type for Code Highlight AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:62
+msgid "Please type clear instructions/topic and type programming language in which the code should be generated for Code Highlight AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:94
+msgid "Ai Text Content Wraiter Light Settings"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:102
+msgid "Number of Blockquotes contents suggestions"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-code-editor-control.php:103
+msgid "Please select Number of Blockquotes contents suggestions."
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:50
+msgid "Wraiter Light AI Heading Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-heading-control.php:59
+msgid "Type for Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-html-editor-control.php:50
+msgid "Wraiter Light  HTML Code AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-html-editor-control.php:59
+msgid "Type for HTML Code AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-html-editor-control.php:62
+msgid "Please specify clear instructions wit proper style and syntax for HTML CODE AI Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:50
+msgid "Wraiter Light AI Testimonial Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-testimonial-control.php:59
+msgid "Type Text for Testimonial Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:50
+msgid "WrAIter Light AI Text Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-text-editor-control.php:59
+msgid "Prompt Text for Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:54
+msgid "Wraiter Light AI Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:86
+msgid "Type Text for Title Content Generation"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:95
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:136
+msgid ""
+"Please specify the \n"
+"\t\t\t\t\t\ttopic and provide detailed instructions for the content \n"
+"\t\t\t\t\t\tyou wish to be created. Additionally, \n"
+"\t\t\t\t\t\tyou may copy and paste pre-existing content \n"
+"\t\t\t\t\t\tand request the AI to refine the style, \n"
+"\t\t\t\t\t\tcorrect grammar errors or rewrite\n"
+"\t\t\t\t\t\tthe content for you."
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:116
+msgid "Title Generate and Insert"
+msgstr ""
+
+#: includes/elementor/controls/class-wraiter-light-chatgpt-wp-widget-text-control.php:127
+msgid "Prompt Text for Editor Content Generation"
+msgstr ""
+
+#: includes/global-functions.php:19
+msgid "English"
+msgstr ""
+
+#: includes/global-functions.php:20
+msgid "Spanish"
+msgstr ""
+
+#: includes/global-functions.php:21
+msgid "German"
+msgstr ""
+
+#: includes/global-functions.php:22
+msgid "French"
+msgstr ""
+
+#: includes/global-functions.php:23
+msgid "Italian"
+msgstr ""
+
+#: includes/global-functions.php:24
+msgid "Portuguese"
+msgstr ""
+
+#: includes/global-functions.php:25
+msgid "Romanian"
+msgstr ""
+
+#: includes/global-functions.php:26
+msgid "Dutch"
+msgstr ""
+
+#: includes/global-functions.php:27
+msgid "Polish"
+msgstr ""
+
+#: includes/global-functions.php:28
+msgid "Finnish"
+msgstr ""
+
+#: includes/global-functions.php:29
+msgid "Danish"
+msgstr ""
+
+#: includes/global-functions.php:30
+msgid "Norwegian"
+msgstr ""
+
+#: includes/global-functions.php:31
+msgid "Chinese"
+msgstr ""
+
+#: includes/global-functions.php:32
+msgid "Hindi"
+msgstr ""
+
+#: includes/global-functions.php:33
+msgid "Japanese"
+msgstr ""
+
+#: includes/global-functions.php:34
+msgid "Korean"
+msgstr ""
+
+#: includes/global-functions.php:35
+msgid "Indonesian"
+msgstr ""
+
+#: includes/global-functions.php:36
+msgid "Russian"
+msgstr ""
+
+#: includes/global-functions.php:37
+msgid "Arabic"
+msgstr ""
+
+#: includes/global-functions.php:38
+msgid "Turkish"
+msgstr ""
+
+#: includes/helpers/class-wraiter-light-ai-content-generate.php:128
+#: includes/helpers/class-wraiter-light-ai-content-generate.php:130
+msgid "Error! "
+msgstr ""
+
+#: includes/helpers/class-wraiter-light-ai-openai-request.php:39
+msgid "OpenAI API secret key is missing."
+msgstr ""
+
+#: includes/settings.php:25
+#: includes/settings.php:242
+msgid "OpenAI API Secret Key"
+msgstr ""
+
+#: includes/settings.php:30
+msgid "GPT Model"
+msgstr ""
+
+#: includes/settings.php:35
+msgid "Temperature"
+msgstr ""
+
+#: includes/settings.php:40
+msgid "Max Tokens"
+msgstr ""
+
+#: includes/settings.php:45
+msgid "Presence Penalty"
+msgstr ""
+
+#: includes/settings.php:50
+msgid "Frequency Penalty"
+msgstr ""
+
+#: includes/settings.php:57
+msgid "OpenAI API Settings."
+msgstr ""
+
+#: includes/settings.php:98
+msgid "The sampling temperature to use. Higher values means the model will take more risks. Try 0.9 for more creative applications, and 0 for ones with a well-defined answer."
+msgstr ""
+
+#: includes/settings.php:122
+msgid "The maximum number of tokens to generate for each prompt."
+msgstr ""
+
+#: includes/settings.php:145
+msgid "Number between -2.0 and 2.0. Default is 0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the models likelihood to talk about new topics."
+msgstr ""
+
+#: includes/settings.php:160
+msgid "Text-Davinci-003"
+msgstr ""
+
+#: includes/settings.php:161
+msgid "Text-Curie-001"
+msgstr ""
+
+#: includes/settings.php:162
+msgid "Text-Babbage-001"
+msgstr ""
+
+#: includes/settings.php:163
+msgid "Text-Ada-001"
+msgstr ""
+
+#: includes/settings.php:164
+msgid "GPT-3.5-turbo"
+msgstr ""
+
+#: includes/settings.php:165
+msgid "GPT-4 (Limited Beta)"
+msgstr ""
+
+#: includes/settings.php:166
+msgid "GPT-4-32k (Limited Beta)"
+msgstr ""
+
+#: includes/settings.php:177
+msgid "Choose the GPT model to use for generating text."
+msgstr ""
+
+#: includes/settings.php:200
+msgid "Number between -2.0 and 2.0. Default is 0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model likelihood to repeat the same line verbatim."
+msgstr ""
+
+#: includes/settings.php:217
+msgid "OpenAI API Settings Fields."
+msgstr ""
+
+#: includes/settings.php:239
+msgid "Please Enter OpenAI API Secret Key."
+msgstr ""
+
+#: includes/settings.php:240
+msgid "Generate your secret key by visiting:"
+msgstr ""
+
+#: assets/js/code-highlight.js:27
+#: assets/js/heading.js:27
+#: assets/js/html-editor.js:27
+#: assets/js/text-editor.js:28
+#: assets/js/wraiter-light-blockquote.js:27
+#: assets/js/wraiter-light-testimonials.js:27
+msgid "Please provide text for Auto Content Generation."
+msgstr ""
+
+#: assets/js/code-highlight.js:44
+#: assets/js/heading.js:47
+#: assets/js/html-editor.js:43
+#: assets/js/wp-text-editor.js:27
+#: assets/js/wraiter-light-blockquote.js:46
+#: assets/js/wraiter-light-testimonials.js:46
+msgid "Please wait..., generating AI content"
+msgstr ""
+
+#: assets/js/text-editor.js:49
+msgid "Please wait..., generating text content"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:8
+msgid "Simplify language"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:10
+msgid "Simplify the language of the following text: "
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:13
+msgid "Make it longer"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:15
+msgid "Make the following text longer: "
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:18
+msgid "Make it shorter"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:20
+msgid "Make the following text shorter: "
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:23
+msgid "Fix spelling & grammar"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/prompts.js:25
+msgid "Fix the spelling and grammar of the following text: "
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Compose descriptions for"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Compose product descriptions for"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Write blog posts for"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Create concise microcopy for a submission form with"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Write a paragraph on it"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Continue this text"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Continue the text"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Generate ideas on this"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Write an article about this"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Summarize this text"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Paraphrase this text"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+msgid "Explain to a 5-year-old kid this text"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:583
+msgid "Missing Text Selection"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:585
+msgid "Please make sure to select the text you want to use for Wraiter to edit (or operate on)."
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:589
+#: includes/gutenberg/src/wraiter.js:592
+msgid "Ok"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:598
+msgid "Wraiter is not properly configured"
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:600
+msgid "It seems that Wraiter is not configured correctly. Please make sure to enter a valid API key in the settings."
+msgstr ""
+
+#: includes/gutenberg/build/index.js:1
+#: includes/gutenberg/src/wraiter.js:604
+msgid "Go to settings"
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:28
+#: includes/gutenberg/src/prompts.js:30
+#: includes/gutenberg/src/prompts.js:86
+#: includes/gutenberg/src/prompts.js:88
+msgid "Compose descriptions for "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:33
+#: includes/gutenberg/src/prompts.js:35
+#: includes/gutenberg/src/prompts.js:91
+#: includes/gutenberg/src/prompts.js:93
+msgid "Compose product descriptions for "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:38
+#: includes/gutenberg/src/prompts.js:40
+#: includes/gutenberg/src/prompts.js:96
+#: includes/gutenberg/src/prompts.js:98
+msgid "Write blog posts for "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:43
+#: includes/gutenberg/src/prompts.js:45
+#: includes/gutenberg/src/prompts.js:101
+#: includes/gutenberg/src/prompts.js:103
+msgid "Create concise microcopy for a submission form with "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:48
+#: includes/gutenberg/src/prompts.js:50
+#: includes/gutenberg/src/prompts.js:106
+#: includes/gutenberg/src/prompts.js:108
+msgid "Write a paragraph on it "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:53
+#: includes/gutenberg/src/prompts.js:111
+msgid "Continue this text "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:55
+#: includes/gutenberg/src/prompts.js:113
+msgid "Continue the text "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:58
+#: includes/gutenberg/src/prompts.js:60
+#: includes/gutenberg/src/prompts.js:116
+#: includes/gutenberg/src/prompts.js:118
+msgid "Generate ideas on this "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:63
+#: includes/gutenberg/src/prompts.js:65
+#: includes/gutenberg/src/prompts.js:121
+#: includes/gutenberg/src/prompts.js:123
+msgid "Write an article about this "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:68
+#: includes/gutenberg/src/prompts.js:70
+#: includes/gutenberg/src/prompts.js:126
+#: includes/gutenberg/src/prompts.js:128
+msgid "Summarize this text "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:73
+#: includes/gutenberg/src/prompts.js:75
+#: includes/gutenberg/src/prompts.js:131
+#: includes/gutenberg/src/prompts.js:133
+msgid "Paraphrase this text "
+msgstr ""
+
+#: includes/gutenberg/src/prompts.js:78
+#: includes/gutenberg/src/prompts.js:80
+#: includes/gutenberg/src/prompts.js:136
+#: includes/gutenberg/src/prompts.js:138
+msgid "Explain to a 5-year-old kid this text "
+msgstr ""
